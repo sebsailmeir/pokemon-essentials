@@ -34,9 +34,9 @@ MAP_VIEW_MODE      = 1
 # * The odds of a wild Pokémon/bred egg having Pokérus (out of 65536).
 #===============================================================================
 MAXIMUM_LEVEL        = 100
-EGG_LEVEL            = 1
-SHINY_POKEMON_CHANCE = 8
-POKERUS_CHANCE       = 3
+EGG_LEVEL            = 5
+SHINY_POKEMON_CHANCE = 512
+POKERUS_CHANCE       = 256
 
 #===============================================================================
 # * Whether outdoor maps should be shaded according to the time of day.
